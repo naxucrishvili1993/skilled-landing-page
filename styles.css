@@ -41,6 +41,9 @@ button:hover {
   padding: 10px 20px;
   height: 40px;
 }
+.header-btn:hover {
+  background: #666ca3;
+}
 
 /* Intro Section */
 .intro {
@@ -70,6 +73,9 @@ button:hover {
   color: white;
   border-radius: 20px;
   padding: 13px 26px;
+}
+.intro-btn:hover {
+  background: #faa2bf;
 }
 
 /* Mid Section */
@@ -103,6 +109,9 @@ button:hover {
   color: #f74780;
   font-weight: 700;
 }
+.mid-section-btn:hover {
+  color: #ffa6c2;
+}
 /* Bottom Section */
 .bottom-section {
   background: #13183f;
@@ -119,6 +128,9 @@ button:hover {
   border-radius: 20px;
   color: white;
   padding: 10px 20px;
+}
+.footer-btn:hover {
+  background: linear-gradient(180deg, #ca9fe9 0%, #e198de 100%);
 }
 .footer-heading {
   color: white;
